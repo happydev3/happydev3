@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm a Whale-Guru-Dev</h1>
-<h3 align="center">A passionate fullstack web and blockchain developer</h3>
+<h3 align="center">A passionate fullstack web and mobile developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whale-guru-dev&label=Profile%20views&color=0e75b6&style=flat" alt="whalegurudev" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Angular, React, Vue, Nuxt, GraphQL, Ionic, React Native, NodeJs, NestJs, Typescript, Bitcoin, Ethereum, Solidity, Smart Contract, Blockchain**.
 
-- 📫 How to reach me **masterionic@gmail.com**
+- 📫 How to reach me **godknight0930@gmail.com**
 
 - ⚡ Fun fact **I think I am funny, resilient and determined.**
 
